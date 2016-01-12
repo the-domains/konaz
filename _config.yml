@@ -1,0 +1,28 @@
+name: Konaz
+favicon: null
+layout_spectrum: 0.5349130448885262
+typography_spectrum: 0.5827778321690857
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9897247394546866
+  lightness: 0.23520398861728609
+  saturation: 0.06682249531149864
+  rhythmicContrast: 0.035239958204329014
+purpose: []
